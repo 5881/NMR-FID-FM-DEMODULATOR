@@ -1,0 +1,14 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fan
+$$ D:\Bruker\TopSpin3.2\data\fan\nmr/d-radio/12/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-08-27 17:17:14.127 +0300>,<fan>,<fan-PC>,<proc1d>,<TOPSPIN 3.2>,
+      <em LB = 0 SI = 256K 
+       data hash MD5: 256K
+       D9 FF A6 07 84 20 63 EF C2 DF E4 15 DB FF E6 BB>)
+##END=
+
+$$ hash MD5
+$$ 81 5D 9E D1 96 43 69 FF 58 86 6D DA 03 4A 85 B5
