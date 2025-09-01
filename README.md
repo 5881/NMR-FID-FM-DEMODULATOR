@@ -12,6 +12,7 @@
 The resonant frequencies of some nucleus fall into the FM range 87-108MHz, and sometimes, with insufficient shielding, the station's signal can slip into the fid. This phenomenon is well-known and has been repeatedly described, for example [here](https://u-of-o-nmr-facility.blogspot.com/2008/05/interference-from-fm-radio-stations.html )
 
 
+![Q ONE NMR spectrometr](Q-One-platform-NMR-Complete-Systems-Full.jpg)
 In our case, on the "Q One AS600" spectrometer.  deuterium channel has a frequency of 96 MHz, which falls exactly into the "Moskva FM" radio station. As an experiment, the spectrum was recorded on a gauge with the casing removed. The registered fid, you can demodulate and hear the radio station itself. Two scripts have been written for this. brucker_fid_fm_demodulator_v0.9.py and brucker_fid_quad_fm_demodulator_v0.9.py they differ only in the demodulation algorithm. The sample feeds converted to the Brucker format are located in directories 5, 6, 12, 13.
 
 
