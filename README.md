@@ -32,5 +32,8 @@ $./bruker_fid_quad_fm_demodulator_v0.9.py path_to_fid
 
 $./bruker_fid_fm_demodulator_v0.9.py path_to_fid
 
+
 Александр Белый 2025 г.
+
+
 @candidum5881
