@@ -1,4 +1,4 @@
-# BRUCKER NMR FID FM DEMODULATOR
+# BRUKER NMR FID FM DEMODULATOR
 Резонансные частоты некоторых ядер попадают в FM диапазон 87-108MHz и иногда при недостаточной экранировке сигнал станции может пролезть в fid. Это явление известное и неоднократно описанное, например [здесь](https://u-of-o-nmr-facility.blogspot.com/2008/05/interference-from-fm-radio-stations.html)
 
 
