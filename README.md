@@ -20,7 +20,7 @@ In our case, on the "Q One AS600" spectrometer.  deuterium channel has a frequen
 nmrglue, numpy, scipy
 
 
-## Using
+## Usage
 $./run.sh
 
 
